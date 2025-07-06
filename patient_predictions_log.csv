@@ -1,0 +1,9 @@
+Name,Age,Image,Prediction,Confidence,Date
+zied,23,Te-no_0356.jpg,no_tumor,98.29%,2025-07-04T08:49:47.636316
+test,23,Tr-piTr_0009.jpg,pituitary_tumor,69.24%,2025-07-04T08:50:55.108489
+REP-20250704-e6f4d6,Mario,30,Te-piTr_0002.jpg,meningioma_tumor,95.08%,2025-07-04T16:20:10.339164
+REP-20250704-062952,Mario,30,Te-piTr_0002.jpg,meningioma_tumor,95.08%,2025-07-04T18:53:50.712865
+REP-20250705-565d26,test,20,Te-pi_0019.jpg,meningioma_tumor,46.56%,2025-07-05T13:27:45.512571
+REP-20250705-8aed49,ts,22,Te-pi_0016.jpg,pituitary_tumor,99.71%,2025-07-05T13:41:26.679864
+REP-20250705-aa1a93,,,Te-pi_0021.jpg,pituitary_tumor,99.85%,2025-07-05T13:42:02.520732
+REP-20250705-096eef,,,Tr-pi_0752.jpg,pituitary_tumor,96.35%,2025-07-05T14:03:17.357348
