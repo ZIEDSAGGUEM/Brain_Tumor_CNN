@@ -54,8 +54,8 @@ Brain_Tumor/
 ### Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/brain-tumor-classification-app.git
-cd brain-tumor-classification-app
+git clone https://github.com/ZIEDSAGGUEM/Brain_Tumor_CNN.git
+cd Brain_Tumor_CNN
 ```
 
 ### Create and activate a virtual environment:
